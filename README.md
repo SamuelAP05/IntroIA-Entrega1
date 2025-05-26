@@ -11,3 +11,5 @@
 - **Nombre:** Juan Gabriel Sánchez Osorio  
   **Cédula:** 1221725424
   **Programa:** Ingeniería Industrial Región
+
+Link del video: https://www.youtube.com/watch?v=mE2eVDI3aMQ
