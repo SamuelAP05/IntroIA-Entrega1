@@ -12,4 +12,5 @@
   **Cédula:** 1221725424
   **Programa:** Ingeniería Industrial Región
 
-Link del video: https://www.youtube.com/watch?v=mE2eVDI3aMQ
+Link del video entrega 2: https://www.youtube.com/watch?v=mE2eVDI3aMQ
+Link del video de la entrega final: https://youtu.be/ojddLe3Zy2E
